@@ -1,0 +1,36 @@
+{
+  "contacts": [
+    {
+      "id": 3,
+      "name": "Pedro",
+      "phones": [
+        {
+          "phone": "(99) 99929-9999"
+        }
+      ],
+      "zipcode": "30575-180",
+      "street": "Av. Professor Mario Werneck",
+      "street_number": 1062,
+      "neighborhood": "BURITIS2",
+      "city": "BH",
+      "state": "MG",
+      "country": "BR"
+    },
+    {
+      "name": "Pedro Teste",
+      "phones": [
+        {
+          "phone": "(11) 11111-1111"
+        }
+      ],
+      "street_number": "221",
+      "street": "Rua Major Paulo",
+      "neighborhood": "Centro",
+      "city": "Centro",
+      "state": "MG",
+      "country": "",
+      "zipcode": "35900-024",
+      "id": 4
+    }
+  ]
+}
